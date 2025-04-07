@@ -26,9 +26,6 @@ Each 0.75-second waveform (36,000 samples) is processed into:
 - **Label `0`** = drummy  
 - **Label `1`** = tight  
 
-**Nassar & Brown (2022)** — *Mine roof impact sound dataset*  
-[ScienceDirect link](https://www.sciencedirect.com/science/article/pii/S235234092200066X)
-
 ---
 
 ## Model: Multi-Layer Perceptron (MLP)
