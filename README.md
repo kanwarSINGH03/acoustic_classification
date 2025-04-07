@@ -27,6 +27,8 @@ Each 0.75-second waveform (36,000 samples) is processed into:
 - **Label `1`** = tight  
 
 ---
+## Accuracy
+Accuracy on Test Set of 309 items was **94%**
 
 ## Model: Multi-Layer Perceptron (MLP)
 
